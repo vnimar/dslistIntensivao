@@ -6,6 +6,4 @@ import com.vnimar.intensivao.entities.Game;
 
 public interface GameRepository extends JpaRepository<Game, Long> {
 	
-	
-	
 }
